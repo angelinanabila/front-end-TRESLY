@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+.container {
+    margin-top: 100px;
+    position: absolute;
+}
+
+.namaproduk {
+    font-family: Poppins;
+    font-weight: 700;
+    color: #2D334A;
+}
+
+.button-edit{margin-top: 10px;
+    background: #452704;
+    color: #FFFFFF;
+    height: 35px; 
+    border-radius: 10px;
+}

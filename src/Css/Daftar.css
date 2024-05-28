@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+* {
+  max-width: 100%;
+}
+
+.rectangle-daftar {
+    margin-top: 1px;
+    margin-left: 200px;
+    float: left;
+    width: 550px; 
+    height: 580px; 
+    background: #34291F; 
+    border-radius: 20px;
+}
+
+.rectangle-daftar img {
+  margin-left: 120px;
+  margin-top: 100px;
+}
+
+.rectangle-daftar h1 {
+  font-family: Libre Bodoni; 
+  font-weight: 300; 
+  font-size: 60px;
+}
+
+.rectangle-daftar2 {
+    margin-top: 100px;
+    margin-left: 700px;
+    width: 600px; 
+    height: 580px; 
+    background: #F4F4F4;
+    border-radius: 20px;
+}
+
+.rectangle-daftar h1 {
+  color: #ffffff;
+  text-align: center;
+  
+}
+
+.title-daftar h1{
+    text-align: center;
+    font-weight: 700;
+    line-height: 90px; 
+    color: #595959;
+}
+
+.isi-daftar {
+    margin-left: 100px;
+    color: #595959;
+}
+
+.btn {
+    padding: 12px 48px;
+}
+
+.title-masuk h1{
+    text-align: center;
+    font-weight: 700;
+    line-height: 170px; 
+    color: #595959;
+}
+
+.pw {
+  float: right;
+}
+
+.dua {
+  float: right;
+}

@@ -1,0 +1,27 @@
+* {
+  font-family: Poppins;
+}  
+  
+  .car {
+    margin-left: 0px;
+    position: relative;
+    margin-top: 50px;
+    width: 100%;
+  }
+  
+  .car h3 {
+    color: #452704;
+    margin-top: 7px;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: Poppins; 
+  }
+
+  .button {
+    background: #452704;
+    color: #FFFF;
+    border-radius: 6px;
+    margin-left: 5px;
+    height: 40px;
+    margin-top: 10px; 
+  }

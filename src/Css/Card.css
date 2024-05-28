@@ -1,0 +1,17 @@
+.shop{
+    margin-top: 70px;
+}
+
+.button-edit{margin-top: 10px;
+    background: #452704;
+    color: #FFFFFF;
+    width: 190px; 
+    height: 40px; 
+}
+
+.button-delete {
+    width: 190px; 
+    height: 40px;
+    margin-left: 10px;
+    background: #FFFFFF;
+}
